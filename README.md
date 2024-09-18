@@ -7,3 +7,4 @@ git clone https://github.com/linzingandrei/Bouncing-Ball
 make bouncing_ball_native
 make bouncing_ball.wasm
 ```
+## The web version can be viewed at: https://bouncing-ball.pages.dev/
